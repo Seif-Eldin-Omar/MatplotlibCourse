@@ -1,0 +1,209 @@
+# Ignore data files
+Data/
+*.csv
+*.xlsx
+
+# Ignore environment files
+.env
+__pycache__/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Anaconda environment files
+env_name/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Ignore package directories
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+share/python-wheels/
+*.manifest
+*.spec
+
+# Ignore virtual environment directories
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+conda-meta/
+
+# Ignore Anaconda environment directories
+bin/
+libs/
+lib64/
+include/
+Scripts/
+Lib/
+Library/
+Tools/
+DLLs/
+share/
+DLLs/
+LICENSE_PYTHON.txt
+Lib/
+Library/
+Scripts/
+Tools/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE project files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore other common temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# Ignore configuration files
+*.cfg
+*.ini
+
+# Ignore environment configuration files
+.env
+.venv
+
+# Ignore miscellaneous
+**/.DS_Store
+
+
+# Ignore .dll files
+*.dll
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Ignore package directories
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+share/python-wheels/
+*.manifest
+*.spec
+
+# Ignore virtual environment directories
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore Anaconda environment directories and files
+bin/
+lib/
+lib64/
+include/
+Scripts/
+Lib/
+Libraries/
+conda-meta/
+etc/
+libs/
+share/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE project files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore other common temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# Ignore configuration files
+*.cfg
+*.ini
+
+# Ignore environment configuration files
+.env
+.venv
+
+# Ignore .dll files
+*.dll
+
+# Ignore executable and binary files
+*.exe
+*.pdb
+*.bat
+
+# Ignore Python executable and related binaries
+python.exe
+python.pdb
+python312.dll
+python312.pdb
+pythonw.exe
+pythonw.pdb
+
+# Ignore specific files related to PyQt and other tools
+pylupdate5.bat
+pyrcc5.bat
+pyuic5.bat
+
+# Ignore non-admin file
+.nonadmin
+
+# Ignore license file
+LICENSE_PYTHON.txt
+
+# Ignore miscellaneous
+**/.DS_Store
+
+__pycache__
